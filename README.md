@@ -5,6 +5,8 @@
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=thusharakart.thusharakart&color=00cf00)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanHarsha&langs_count=4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/thusharakart/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8" />
 </a> 
