@@ -5,21 +5,14 @@
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=thusharakart.thusharakart&color=00cf00)
 
-[![Rusiru Thushara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusharakart&count_private=true&show_icons=true&theme=radical)](https://github.com/thusharakart/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8)](https://github.com/thusharakart/github-readme-stats)
-
 <a href="https://github.com/thusharakart/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thusharakart&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Rusiru's github stats" />
 </a>
 
 <a href="https://github.com/thusharakart/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8" />
-</a>
+</a>  
 
-<a href="https://github.com/thusharakart/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart&show_icons=true&theme=radical" />
-</a>    
 <a href="https://github.com/thusharakart/thusharakart.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart.github.io&show_icons=true&theme=radical" />
 </a>
