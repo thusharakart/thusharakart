@@ -5,4 +5,7 @@
 
 [![Rusiru Thushara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusharakart)](https://github.com/thusharakart/github-readme-stats)
 
+![Rusiru Thushara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusharakart&count_private=true)
+
+
 
