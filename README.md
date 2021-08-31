@@ -14,11 +14,11 @@
 </a>
 
 <a href="https://github.com/thusharakart/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8" />
 </a>
 
 <a href="https://github.com/thusharakart/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=github-readme-stats&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart&show_icons=true&theme=radical" />
 </a>    
 <a href="https://github.com/thusharakart/thusharakart.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart.github.io&show_icons=true&theme=radical" />
