@@ -10,17 +10,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8)](https://github.com/thusharakart/github-readme-stats)
 
 <a href="https://github.com/thusharakart/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thusharakart&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Rusiru's github stats" />
 </a>
+
 <a href="https://github.com/thusharakart/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/thusharakart/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>    
 <a href="https://github.com/thusharakart/thusharakart.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart.github.io&show_icons=true&theme=radical" />
 </a>
 
 ## 🧰 Languages and Tools:
