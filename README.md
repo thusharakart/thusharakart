@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Rusiru Thushara, a Full stack web developer, Mobile developer and a Competitive programmer in Sri Lanka.
+### 👋 Hi, I’m [Rusiru Thushara](https://thusharakart.github.io) 👋, a Full stack web developer, Mobile developer and a Competitive programmer in Sri Lanka.
 - 👀 I’m interested in computer science
 - 💞️ I’m looking to collaborate on software engineering projects
 - 📫 contact : e16369@eng.pdn.ac.lk
@@ -9,7 +9,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8)](https://github.com/thusharakart/github-readme-stats)
 
+<a href="https://github.com/thusharakart/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/thusharakart/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&layout=compact&theme=material-palenight" />
+</a>
 
+<a href="https://github.com/thusharakart/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/thusharakart/thusharakart.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart.github.io&theme=material-palenight" />
+</a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
