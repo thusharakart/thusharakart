@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thusharakart&repo=thusharakart.github.io&show_icons=true&theme=radical" />
 </a>
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring" height="40" style="vertical-align:top; margin:4px">
