@@ -7,7 +7,7 @@
 
 [![Rusiru Thushara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusharakart&count_private=true&show_icons=true&theme=radical)](https://github.com/thusharakart/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&langs_count=4&theme=radical)](https://github.com/thusharakart/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thusharakart&count_private=true&langs_count=4&theme=radical&langs_count=8)](https://github.com/thusharakart/github-readme-stats)
 
 
 
