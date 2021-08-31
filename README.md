@@ -3,3 +3,6 @@
 - 💞️ I’m looking to collaborate on software engineering projects
 - 📫 contact : e16369@eng.pdn.ac.lk
 
+[![Rusiru Thushara's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusharakart)](https://github.com/thusharakart/github-readme-stats)
+
+
