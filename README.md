@@ -1,6 +1,6 @@
-### 👋 Hi, I’m [Rusiru Thushara](https://thusharakart.github.io) 👋 Full stack web developer, Mobile developer and a Competitive programmer in Sri Lanka.
-- 👀 I’m interested in computer science
-- 💞️ I’m looking to collaborate on software engineering projects
+### 👋 Hi, I’m [Rusiru Thushara](https://thusharakart.github.io) 👋 I am an experienced Computer Engineer with a deep passion for the exciting and dynamic fields of Computer Vision and AI.
+- 👀 I’m interested in computer vision
+- 💞️ I’m looking to collaborate on computer vision research projects
 - 📫 contact : e16369@eng.pdn.ac.lk / rusiru@sternxengineering.com
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=thusharakart.thusharakart&color=00cf00)
