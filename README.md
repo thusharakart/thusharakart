@@ -3,7 +3,7 @@ I am an experienced **Computer Engineer** with a deep passion for the exciting a
 
 - 👀 I’m interested in computer vision
 - 💞️ I’m looking to collaborate on computer vision research projects
-- 📫 contact : e16369@eng.pdn.ac.lk / rusiru@sternxengineering.com
+- 📫 contact : rusiru@eng.pdn.ac.lk / rusiru@sternxengineering.com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thusharakart.thusharakart&left_color=green&right_color=red)
 
